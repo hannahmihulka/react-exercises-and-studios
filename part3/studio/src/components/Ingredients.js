@@ -1,4 +1,4 @@
-RecipeIngredients = () => {
+export default RecipeIngredients = () => {
 
    const ingredients = ['sauerkraut', 'bacon', 'brown sugar', 'onion', 'kielbasa'];
 
