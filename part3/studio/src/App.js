@@ -4,7 +4,7 @@ import StatusChange from './components/StatusChange';
 import RecipeDisplay from './components/Recipe'; 
 import RecipeDescription from './components/Description';
 import RecipeAuthor from './components/Description'; 
-import RecipeIngredientss from './components/Ingredients'; 
+import RecipeIngredients from './components/Ingredients'; 
 
 function App() {
   return (
