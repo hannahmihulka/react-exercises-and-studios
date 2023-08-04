@@ -18,4 +18,19 @@ RecipeAuthor = () => {
           )
         }; 
 
+class RecipeDescription extends React.Component {
+    render() {
+        return(
+            <div>
+                <div>
+                <h1>Sausage and Sauerkraut</h1>
+                <p>This sauerkraut and sausage recipe is from a sweet old German lady I used to attend church with. Allow for plenty of time to prepare and cook this dish. It is definitely worth the time and effort! Serve with hot German potato salad and red cabbage.</p>
+            </div>
+            <RecipeAuthor/>
+            </div> 
+        )
+    }
+}; 
+
+export default RecipeDescription; 
 
