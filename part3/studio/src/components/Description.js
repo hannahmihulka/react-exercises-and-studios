@@ -1,5 +1,5 @@
 import styles from './Description.module.css; 
-
+import React from 'react'; 
 
 RecipeAuthor = () => {
 
@@ -17,3 +17,5 @@ RecipeAuthor = () => {
             </div>
           )
         }; 
+
+
