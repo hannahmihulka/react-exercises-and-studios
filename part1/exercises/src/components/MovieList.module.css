@@ -1,9 +1,12 @@
 .movieText {
    color: rgb(225, 32, 161);
-   font-size: medium;
+   font-size: larger;
    text-align: left;
 }
 
 .movieHeading {
    text-align: left;
+   color:blueviolet; 
+   font-size: x-large;
+   text-decoration:underline;
 }
