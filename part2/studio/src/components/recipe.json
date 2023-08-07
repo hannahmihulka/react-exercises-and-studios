@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "15-Minute Pickled Beets (Kitchen Hack Version)",
+     "author": "Kitchen Hack",
+     "description": "A delicous quick snack for on the go or for your Polish grandma!",
+     "website": "http://allrecipes.com/recipe/254681/15-minute-pickled-beets-kitchen-hack/",
+     "recipeImage": "https://images.media-allrecipes.com/userphotos/560x315/3763638.jpg",
+     "authorImage": "https://www.artisanimports.com/polish-pottery/mug-12-oz-babcia-grandma-h9567c-size.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+        "1 (16 ounce) jar pickled beets",
+        "2/3 cup white sugar",
+        "2/3 cup white vinegar",
+        "1/4 teaspoon salt",
+        "2 whole cloves (optional)"
      ]
    }
  ]
